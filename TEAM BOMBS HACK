@@ -929,21 +929,6 @@ Welcome_Label.TextWrapped = true
 Welcome_Label.TextXAlignment = Enum.TextXAlignment.Left
 Welcome_Label.TextYAlignment = Enum.TextYAlignment.Top
 
-Announce_Label.Name = "Announce_Label"
-Announce_Label.Parent = Home_Section
-Announce_Label.BackgroundColor3 = Color3.fromRGB(30, 30, 30)
-Announce_Label.BorderColor3 = Color3.fromRGB(0, 0, 0)
-Announce_Label.BorderSizePixel = 0
-Announce_Label.Position = UDim2.new(0, 25, 0, 150)
-Announce_Label.Size = UDim2.new(0, 350, 0, 150)
-Announce_Label.Font = Enum.Font.SourceSans
-Announce_Label.Text = loadstring(game:HttpGet("https://raw.githubusercontent.com/H20CalibreYT/SystemBroken/main/announce"))()
-Announce_Label.TextColor3 = Color3.fromRGB(0, 255, 255)
-Announce_Label.TextSize = 24.000
-Announce_Label.TextWrapped = true
-Announce_Label.TextXAlignment = Enum.TextXAlignment.Left
-Announce_Label.TextYAlignment = Enum.TextYAlignment.Top
-
 Character_Section.Name = "Character_Section"
 Character_Section.Parent = Background
 Character_Section.Active = true
