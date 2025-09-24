@@ -3535,5 +3535,5 @@ game:GetService("UserInputService").InputBegan:Connect(function(input,gameProces
 	end
 end)
 
-SendNotify("TEAM BOMBS HACK","Gui developed by TEAM BOMBS HACK",10)
+SendNotify("TEAM_BOMBS_HACK","Gui developed by TEAM BOMBS HACK",10)
 loadstring(game:HttpGet("https://raw.githubusercontent.com/H20CalibreYT/SystemBroken/main/premium"))() -- load the premium
